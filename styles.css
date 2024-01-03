@@ -1,0 +1,39 @@
+body{
+    background-color: chartreuse;
+}
+
+h1{
+    font-family: cursive;
+    color: red;
+}
+
+h2{
+    font-family: 'Trebuchet MS';
+    color: blueviolet;
+}
+
+.skills{
+    color: red;
+}
+
+#azurelistitem{
+    color: grey;
+}
+
+button{
+    background-color:pink;
+}
+button:hover{
+    background-color: aqua;
+}
+
+button:active{
+    background-color: green;
+}
+
+p{
+    font-size: 1rem;
+    color: black;
+    font-family: Cambria, Cochin, 'Times New Roman';
+    
+}
